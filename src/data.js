@@ -39,4 +39,4 @@ export const menuData = [
     price: "$$$",
     image: "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
   }
-];[cite: 1, 2, 4]
+];
