@@ -5,7 +5,7 @@ export const menuData = [
     name: "Parrillada Chica",
     description: "Para 2 personas. Incluye: sirloin, chorizo, costilla de res, chorizo y/o chistorra. Guacamole, frijoles, ensalada, arroz, espagueti.",
     price: "$$$", // Reemplaza con el precio real
-    image: "https://images.unsplash.com/photo-1544025162-8315104d49a3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" // Usa tus propias fotos después
+    image: "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" // Usa tus propias fotos después
   },
   {
     id: 2,
