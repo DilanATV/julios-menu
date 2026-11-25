@@ -487,7 +487,7 @@ function App() {
         </div>
 
         <div className="border-t border-stone-800 py-4 text-center text-[11px] text-stone-500 px-4">
-          © {new Date().getFullYear()} {restaurantInfo.name}. Todos los derechos reservados • Menú Digital Interactivo • ATV COMPANY.
+          © {new Date().getFullYear()} {restaurantInfo.name}. Todos los derechos reservados • Menú Digital Interactivo • ATV COMPANY
         </div>
       </footer>
 
